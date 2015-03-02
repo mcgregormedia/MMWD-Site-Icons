@@ -1,23 +1,23 @@
 <?php
 /*
 Plugin Name: MMWD Site Icons
-Plugin URI: http://www.mcgregormedia.co.uk/
+Plugin URI: http://www.mcgregormedia.co.uk/projects/mmwd-site-icons
 Description: Adds favicons and touch icons to your site. Get your icons at http://realfavicongenerator.net - make sure you name the download file "favicons". Unzip the folder, then upload it to your wp-content folder and the plugin will do the rest.
-Version: 1.0.0
+Version: 1.0.1
 Author: McGregor Media Web Design
 Author URI: http://www.mcgregormedia.co.uk/
 License: GPL2
-
+ 
 MMWD Site Icons is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or
 any later version.
-
+ 
 MMWD Site Icons is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
-
+ 
 You should have received a copy of the GNU General Public License
 along with MMWD Site Icons. If not, see http://www.gnu.org/licenses/gpl.html.
 */
