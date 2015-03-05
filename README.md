@@ -6,13 +6,10 @@ Get your icons at http://realfavicongenerator.net - make sure you name the downl
 Changelog
 
 1.0.2 02-03-2015
-
-Changed location of folder on advice from realfavicongenerator.net's website.
+TWEAK: changed location of folder on advice from realfavicongenerator.net's website.
 
 1.0.1 02-03-2015
-
-Added correct Plugin URI.
+TWEAK: added correct Plugin URI.
 
 1.0.0 20-02-2015
-
 Initial release.
