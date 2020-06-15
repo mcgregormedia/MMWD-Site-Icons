@@ -5,6 +5,9 @@ Get your icons at http://realfavicongenerator.net - make sure you name the downl
 
 Changelog
 
+1.0.3 28-06-2015
+TWEAK: updated code for latest version of realfavicongenerator.net
+
 1.0.2 02-03-2015
 TWEAK: changed location of folder on advice from realfavicongenerator.net's website.
 
